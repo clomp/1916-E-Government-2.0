@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2010.11.19)  20 NOV 2010 12:54
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2010.11.19)  21 NOV 2010 07:45
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -670,20 +670,20 @@ Package: beamerouterthemesmoothbars 2007/01/28  (rcs-revision 1.6)
 (./vortrag.aux (./christian.aux) (./ulrich.aux))
 \openout1 = `vortrag.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
 
 (/usr/share/texmf/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -739,7 +739,7 @@ driver: pdftex
 
 (1in=72.27pt, 1cm=28.45pt)
 -----------------------
-Package hyperref Info: Link coloring OFF on input line 31.
+Package hyperref Info: Link coloring OFF on input line 23.
 (/usr/share/texmf-texlive/tex/latex/hyperref/nameref.sty
 Package: nameref 2007/05/29 v2.31 Cross-referencing by name of section
 
@@ -748,8 +748,8 @@ Package: refcount 2008/08/11 v3.1 Data extraction from references (HO)
 )
 \c@section@level=\count158
 )
-LaTeX Info: Redefining \ref on input line 31.
-LaTeX Info: Redefining \pageref on input line 31.
+LaTeX Info: Redefining \ref on input line 23.
+LaTeX Info: Redefining \pageref on input line 23.
  (./vortrag.out)
 (./vortrag.out)
 \@outlinefile=\write4
@@ -757,414 +757,450 @@ LaTeX Info: Redefining \pageref on input line 31.
 
 \AtBeginShipoutBox=\box53
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 31.
+(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 23.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 31.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 23.
 \symnumbers=\mathgroup6
 \sympureletters=\mathgroup7
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  OT1/cmss/m/n --> T1/cmr/m/n on input line 31.
-LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 31.
+(Font)                  OT1/cmss/m/n --> T1/cmr/m/n on input line 23.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 23.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> T1/cmss/bx/n on input line 31.
+(Font)                  OT1/cmr/bx/n --> T1/cmss/bx/n on input line 23.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmr/bx/n --> T1/cmss/bx/n on input line 31.
-LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 31.
+(Font)                  OT1/cmr/bx/n --> T1/cmss/bx/n on input line 23.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 23.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> T1/cmss/m/n on input line 31.
+(Font)                  OT1/cmss/m/n --> T1/cmss/m/n on input line 23.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> T1/cmss/m/n on input line 31.
-LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 31.
+(Font)                  OT1/cmss/bx/n --> T1/cmss/m/n on input line 23.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 23.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> T1/cmss/m/it on input line 31.
+(Font)                  OT1/cmr/m/it --> T1/cmss/m/it on input line 23.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> T1/cmss/m/it on input line 31.
-LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 31.
+(Font)                  OT1/cmr/bx/it --> T1/cmss/m/it on input line 23.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 23.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> T1/cmtt/m/n on input line 31.
+(Font)                  OT1/cmtt/m/n --> T1/cmtt/m/n on input line 23.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> T1/cmtt/m/n on input line 31.
+(Font)                  OT1/cmtt/m/n --> T1/cmtt/m/n on input line 23.
 LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
-(Font)                  T1/cmss/m/n --> T1/cmss/bx/n on input line 31.
+(Font)                  T1/cmss/m/n --> T1/cmss/bx/n on input line 23.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  T1/cmss/m/it --> T1/cmss/bx/it on input line 31.
+(Font)                  T1/cmss/m/it --> T1/cmss/bx/it on input line 23.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
-(Font)                  OT1/cmss/bx/n --> T1/cmr/bx/n on input line 31.
+(Font)                  OT1/cmss/bx/n --> T1/cmr/bx/n on input line 23.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  T1/cmss/bx/n --> T1/cmss/bx/n on input line 31.
+(Font)                  T1/cmss/bx/n --> T1/cmss/bx/n on input line 23.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  T1/cmss/m/n --> T1/cmss/bx/n on input line 31.
+(Font)                  T1/cmss/m/n --> T1/cmss/bx/n on input line 23.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  T1/cmss/m/it --> T1/cmss/bx/it on input line 31.
+(Font)                  T1/cmss/m/it --> T1/cmss/bx/it on input line 23.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  T1/cmtt/m/n --> T1/cmtt/bx/n on input line 31.
+(Font)                  T1/cmtt/m/n --> T1/cmtt/bx/n on input line 23.
 
 (/usr/share/texmf-texlive/tex/latex/translator/translator-theorem-dictionary-En
 glish.dict
 Dictionary: translator-theorem-dictionary, Language: English 
 ) (./vortrag.nav)
+Overfull \hbox (2.77016pt too wide) in paragraph at lines 23--23
+ [][][][]  
+ []
+
 
 LaTeX Font Warning: Font shape `T1/cmss/bx/n' in size <4> not available
-(Font)              size <5> substituted on input line 33.
-
-
-Package pgf Warning: File "logo.jpg" not found when defining image "pgflastimag
-e".
-(pgf)                Tried all extensions in ".pdf:.jpg:.jpeg:.png:" on input l
-ine 33.
+(Font)              size <5> substituted on input line 25.
 
 
 LaTeX Font Warning: Font shape `T1/cmss/m/n' in size <4> not available
-(Font)              size <5> substituted on input line 33.
+(Font)              size <5> substituted on input line 25.
+
+
+Overfull \hbox (2.77016pt too wide) has occurred while \output is active
+ [][][][]  
+ []
 
 [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
 
-]
+ <./images/logo.jpg>]
 \openout2 = `christian.aux'.
 
- (./christian.tex
 
-Package pgf Warning: File "logo.jpg" not found when defining image "pgflastimag
-e".
-(pgf)                Tried all extensions in ".pdf:.jpg:.jpeg:.png:" on input l
-ine 13.
+(./christian.tex
+Overfull \hbox (2.77016pt too wide) has occurred while \output is active
+ [][][][]  
+ []
 
 [2
 
 
-]
-
-Package pgf Warning: File "logo.jpg" not found when defining image "pgflastimag
-e".
-(pgf)                Tried all extensions in ".pdf:.jpg:.jpeg:.png:" on input l
-ine 29.
+ <./images/logo.jpg>]
+Overfull \hbox (2.77016pt too wide) has occurred while \output is active
+ [][][][]  
+ []
 
 [3
 
-]
-
-Package pgf Warning: File "logo.jpg" not found when defining image "pgflastimag
-e".
-(pgf)                Tried all extensions in ".pdf:.jpg:.jpeg:.png:" on input l
-ine 40.
+ <./images/logo.jpg>]
+Overfull \hbox (2.77016pt too wide) has occurred while \output is active
+ [][][][]  
+ []
 
 [4
 
-] <images/Transparenz_Umfrage.png, id=170, 786.94pt x 369.38pt>
+ <./images/logo.jpg>]
+<images/Transparenz_Umfrage.png, id=175, 786.94pt x 369.38pt>
 File: images/Transparenz_Umfrage.png Graphic file (type png)
 
 <use images/Transparenz_Umfrage.png>
-
-Package pgf Warning: File "logo.jpg" not found when defining image "pgflastimag
-e".
-(pgf)                Tried all extensions in ".pdf:.jpg:.jpeg:.png:" on input l
-ine 53.
+Overfull \hbox (2.77016pt too wide) has occurred while \output is active
+ [][][][]  
+ []
 
 [5
 
- <./images/Transparenz_Umfrage.png (PNG copy)>]
-
-Package pgf Warning: File "logo.jpg" not found when defining image "pgflastimag
-e".
-(pgf)                Tried all extensions in ".pdf:.jpg:.jpeg:.png:" on input l
-ine 69.
+ <./images/logo.jpg> <./images/Transparenz_Umfrage.png (PNG copy)>]
+Overfull \hbox (2.77016pt too wide) has occurred while \output is active
+ [][][][]  
+ []
 
 [6
 
-]
-
-Package pgf Warning: File "logo.jpg" not found when defining image "pgflastimag
-e".
-(pgf)                Tried all extensions in ".pdf:.jpg:.jpeg:.png:" on input l
-ine 82.
+ <./images/logo.jpg>]
+Overfull \hbox (2.77016pt too wide) has occurred while \output is active
+ [][][][]  
+ []
 
 [7
 
-]
-
-Package pgf Warning: File "logo.jpg" not found when defining image "pgflastimag
-e".
-(pgf)                Tried all extensions in ".pdf:.jpg:.jpeg:.png:" on input l
-ine 93.
+ <./images/logo.jpg>]
+Overfull \hbox (2.77016pt too wide) has occurred while \output is active
+ [][][][]  
+ []
 
 [8
 
-]
-
-Package pgf Warning: File "logo.jpg" not found when defining image "pgflastimag
-e".
-(pgf)                Tried all extensions in ".pdf:.jpg:.jpeg:.png:" on input l
-ine 105.
+ <./images/logo.jpg>]
+Overfull \hbox (2.77016pt too wide) has occurred while \output is active
+ [][][][]  
+ []
 
 [9
 
-]
-
-Package pgf Warning: File "logo.jpg" not found when defining image "pgflastimag
-e".
-(pgf)                Tried all extensions in ".pdf:.jpg:.jpeg:.png:" on input l
-ine 119.
+ <./images/logo.jpg>]
+Overfull \hbox (6.21533pt too wide) has occurred while \output is active
+ [][][][]  
+ []
 
 [10
 
-]
-
-Package pgf Warning: File "logo.jpg" not found when defining image "pgflastimag
-e".
-(pgf)                Tried all extensions in ".pdf:.jpg:.jpeg:.png:" on input l
-ine 130.
+ <./images/logo.jpg>]
+Overfull \hbox (6.21533pt too wide) has occurred while \output is active
+ [][][][]  
+ []
 
 [11
 
-]
-
-Package pgf Warning: File "logo.jpg" not found when defining image "pgflastimag
-e".
-(pgf)                Tried all extensions in ".pdf:.jpg:.jpeg:.png:" on input l
-ine 140.
+ <./images/logo.jpg>]
+Overfull \hbox (6.21533pt too wide) has occurred while \output is active
+ [][][][]  
+ []
 
 [12
 
-] <images/facebook.png, id=403, 32.12pt x 32.12pt>
+ <./images/logo.jpg>] <images/facebook.png, id=419, 32.12pt x 32.12pt>
 File: images/facebook.png Graphic file (type png)
 
-<use images/facebook.png> <images/twitter.png, id=405, 32.12pt x 32.12pt>
+<use images/facebook.png> <images/twitter.png, id=421, 32.12pt x 32.12pt>
 File: images/twitter.png Graphic file (type png)
 
-<use images/twitter.png> <images/youtube.png, id=406, 32.12pt x 32.12pt>
+<use images/twitter.png> <images/youtube.png, id=422, 32.12pt x 32.12pt>
 File: images/youtube.png Graphic file (type png)
 
-<use images/youtube.png> <images/flickr.png, id=407, 32.12pt x 32.12pt>
+<use images/youtube.png> <images/flickr.png, id=423, 32.12pt x 32.12pt>
 File: images/flickr.png Graphic file (type png)
 
-<use images/flickr.png> <images/blogger.png, id=408, 32.12pt x 32.12pt>
+<use images/flickr.png> <images/blogger.png, id=424, 32.12pt x 32.12pt>
 File: images/blogger.png Graphic file (type png)
 
-<use images/blogger.png> <images/rss.png, id=409, 32.12pt x 32.12pt>
+<use images/blogger.png> <images/rss.png, id=425, 32.12pt x 32.12pt>
 File: images/rss.png Graphic file (type png)
 
 <use images/rss.png>
-
-Package pgf Warning: File "logo.jpg" not found when defining image "pgflastimag
-e".
-(pgf)                Tried all extensions in ".pdf:.jpg:.jpeg:.png:" on input l
-ine 163.
+Overfull \hbox (6.21533pt too wide) has occurred while \output is active
+ [][][][]  
+ []
 
 [13
 
- <./images/facebook.png> <./images/twitter.png> <./images/youtube.png> <./image
-s/flickr.png> <./images/blogger.png> <./images/rss.png>]
-<images/wikipedia.png, id=447, 200.75pt x 183.68625pt>
-File: images/wikipedia.png Graphic file (type png)
+ <./images/logo.jpg> <./images/facebook.png> <./images/twitter.png> <./images/y
+outube.png> <./images/flickr.png> <./images/blogger.png> <./images/rss.png>] <i
+mages/Merkel.png, id=465, 954.56625pt x 631.35875pt>
+File: images/Merkel.png Graphic file (type png)
 
-<use images/wikipedia.png>
-
-Package pgf Warning: File "logo.jpg" not found when defining image "pgflastimag
-e".
-(pgf)                Tried all extensions in ".pdf:.jpg:.jpeg:.png:" on input l
-ine 186.
+<use images/Merkel.png>
+Overfull \hbox (6.21533pt too wide) has occurred while \output is active
+ [][][][]  
+ []
 
 [14
 
- <./images/wikipedia.png>])
-\openout2 = `ulrich.aux'.
+ <./images/logo.jpg> <./images/Merkel.png>]
+<images/wikipedia.png, id=497, 200.75pt x 183.68625pt>
+File: images/wikipedia.png Graphic file (type png)
 
- (./ulrich.tex
-
-Package pgf Warning: File "logo.jpg" not found when defining image "pgflastimag
-e".
-(pgf)                Tried all extensions in ".pdf:.jpg:.jpeg:.png:" on input l
-ine 7.
+<use images/wikipedia.png>
+Overfull \hbox (6.21533pt too wide) has occurred while \output is active
+ [][][][]  
+ []
 
 [15
 
+ <./images/wikipedia.png> <./images/logo.jpg>]
+<images/Stadtwiki.png, id=529, 1108.14pt x 662.475pt>
+File: images/Stadtwiki.png Graphic file (type png)
 
-
-]
-
-Package pgf Warning: File "logo.jpg" not found when defining image "pgflastimag
-e".
-(pgf)                Tried all extensions in ".pdf:.jpg:.jpeg:.png:" on input l
-ine 17.
+<use images/Stadtwiki.png>
+Overfull \hbox (6.21533pt too wide) has occurred while \output is active
+ [][][][]  
+ []
 
 [16
 
-]
-
-Package pgf Warning: File "logo.jpg" not found when defining image "pgflastimag
-e".
-(pgf)                Tried all extensions in ".pdf:.jpg:.jpeg:.png:" on input l
-ine 30.
+ <./images/logo.jpg> <./images/Stadtwiki.png (PNG copy)>]
+Overfull \hbox (6.21533pt too wide) has occurred while \output is active
+ [][][][]  
+ []
 
 [17
 
-]
+ <./images/logo.jpg>]
+<images/Buergerhaushalt.png, id=590, 606.265pt x 475.7775pt>
+File: images/Buergerhaushalt.png Graphic file (type png)
 
-Package pgf Warning: File "logo.jpg" not found when defining image "pgflastimag
-e".
-(pgf)                Tried all extensions in ".pdf:.jpg:.jpeg:.png:" on input l
-ine 45.
+<use images/Buergerhaushalt.png>
+Overfull \vbox (1.72884pt too high) detected at line 216
+ []
+
+
+Overfull \hbox (6.21533pt too wide) has occurred while \output is active
+ [][][][]  
+ []
 
 [18
 
-]
+ <./images/logo.jpg> <./images/Buergerhaushalt.png (PNG copy)>]
+Overfull \hbox (6.21533pt too wide) has occurred while \output is active
+ [][][][]  
+ []
+
+[19
+
+ <./images/logo.jpg>]
+<images/OffenerHaushalt.png, id=652, 1011.78pt x 558.085pt>
+File: images/OffenerHaushalt.png Graphic file (type png)
+
+<use images/OffenerHaushalt.png>
+Overfull \hbox (6.21533pt too wide) has occurred while \output is active
+ [][][][]  
+ []
+
+[20
+
+ <./images/logo.jpg> <./images/OffenerHaushalt.png (PNG copy)>]
+Overfull \hbox (6.21533pt too wide) has occurred while \output is active
+ [][][][]  
+ []
+
+[21
+
+ <./images/logo.jpg>]
+<images/Dashboard.png, id=713, 898.35625pt x 573.14125pt>
+File: images/Dashboard.png Graphic file (type png)
+
+<use images/Dashboard.png>
+Overfull \hbox (6.21533pt too wide) has occurred while \output is active
+ [][][][]  
+ []
+
+[22
+
+ <./images/logo.jpg> <./images/Dashboard.png (PNG copy)>]
+Overfull \hbox (6.21533pt too wide) has occurred while \output is active
+ [][][][]  
+ []
+
+[23
+
+ <./images/logo.jpg>] <images/Datenportale.png, id=774, 803.0pt x 602.25pt>
+File: images/Datenportale.png Graphic file (type png)
+
+<use images/Datenportale.png>
+Overfull \hbox (6.21533pt too wide) has occurred while \output is active
+ [][][][]  
+ []
+
+[24
+
+ <./images/logo.jpg> <./images/Datenportale.png>]
+<images/GovCamp.png, id=805, 316.18124pt x 65.24374pt>
+File: images/GovCamp.png Graphic file (type png)
+
+<use images/GovCamp.png>
+Overfull \hbox (6.21533pt too wide) has occurred while \output is active
+ [][][][]  
+ []
+
+[25
+
+ <./images/logo.jpg> <./images/GovCamp.png (PNG copy)>])
+\openout2 = `ulrich.aux'.
+
+ (./ulrich.tex
+Overfull \hbox (6.21533pt too wide) has occurred while \output is active
+ [][][][]  
+ []
+
+[26
+
+
+
+ <./images/logo.jpg>]
+Overfull \hbox (6.21533pt too wide) has occurred while \output is active
+ [][][][]  
+ []
+
+[27
+
+ <./images/logo.jpg>]
+Overfull \hbox (6.21533pt too wide) has occurred while \output is active
+ [][][][]  
+ []
+
+[28
+
+ <./images/logo.jpg>]
+Overfull \hbox (6.21533pt too wide) has occurred while \output is active
+ [][][][]  
+ []
+
+[29
+
+ <./images/logo.jpg>]
+Overfull \hbox (6.21533pt too wide) has occurred while \output is active
+ [][][][]  
+ []
+
+[30
+
+ <./images/logo.jpg>]
 ! Missing number, treated as zero.
 <to be read again> 
                    S
-l.52 \end{kasten}}
+l.58 \end{kasten}}
                   
 ? 
 ! Illegal unit of measure (pt inserted).
 <to be read again> 
                    S
-l.52 \end{kasten}}
+l.58 \end{kasten}}
                   
 ? 
 
-Package pgf Warning: File "logo.jpg" not found when defining image "pgflastimag
-e".
-(pgf)                Tried all extensions in ".pdf:.jpg:.jpeg:.png:" on input l
-ine 52.
+Overfull \hbox (6.21533pt too wide) has occurred while \output is active
+ [][][][]  
+ []
 
-[19
+[31
 
-]
+ <./images/logo.jpg>]
+Overfull \hbox (6.21533pt too wide) has occurred while \output is active
+ [][][][]  
+ []
 
-Package pgf Warning: File "logo.jpg" not found when defining image "pgflastimag
-e".
-(pgf)                Tried all extensions in ".pdf:.jpg:.jpeg:.png:" on input l
-ine 61.
+[32
 
-[20
+ <./images/logo.jpg>]
+Overfull \hbox (6.21533pt too wide) has occurred while \output is active
+ [][][][]  
+ []
 
-]
+[33
 
-Package pgf Warning: File "logo.jpg" not found when defining image "pgflastimag
-e".
-(pgf)                Tried all extensions in ".pdf:.jpg:.jpeg:.png:" on input l
-ine 72.
+ <./images/logo.jpg>]
+Overfull \hbox (6.21533pt too wide) has occurred while \output is active
+ [][][][]  
+ []
 
-[21
+[34
 
-]
+ <./images/logo.jpg>]
+<./images/Screen_offener_Haushalt.png, id=1107, 1109.14375pt x 693.59125pt>
+File: ./images/Screen_offener_Haushalt.png Graphic file (type png)
 
-LaTeX Warning: File `Screen_offener_Haushalt.png' not found on input line 82.
-
-
-! Package pdftex.def Error: File `Screen_offener_Haushalt.png' not found.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.82 }
-      
-? 
-LaTeX Font Info:    Try loading font information for T1+cmtt on input line 82.
-(/usr/share/texmf-texlive/tex/latex/base/t1cmtt.fd
-File: t1cmtt.fd 1999/05/25 v2.5h Standard LaTeX font definitions
-)
-Overfull \vbox (110.8408pt too high) detected at line 82
+<use ./images/Screen_offener_Haushalt.png>
+Overfull \vbox (4.16177pt too high) detected at line 102
  []
 
 
-Package pgf Warning: File "logo.jpg" not found when defining image "pgflastimag
-e".
-(pgf)                Tried all extensions in ".pdf:.jpg:.jpeg:.png:" on input l
-ine 82.
+Overfull \hbox (6.21533pt too wide) has occurred while \output is active
+ [][][][]  
+ []
 
-[22
+[35
 
-]
+ <./images/logo.jpg> <./images/Screen_offener_Haushalt.png (PNG copy)>]
+Overfull \hbox (6.21533pt too wide) has occurred while \output is active
+ [][][][]  
+ []
 
-Package pgf Warning: File "logo.jpg" not found when defining image "pgflastimag
-e".
-(pgf)                Tried all extensions in ".pdf:.jpg:.jpeg:.png:" on input l
-ine 92.
+[36
 
-[23
+ <./images/logo.jpg>]
+<./images/Screen_Buergerhaushalt.png, id=1168, 1006.76125pt x 628.3475pt>
+File: ./images/Screen_Buergerhaushalt.png Graphic file (type png)
 
-]
-
-LaTeX Warning: File `Screen_Buergerhaushalt.png' not found on input line 101.
-
-
-! Package pdftex.def Error: File `Screen_Buergerhaushalt.png' not found.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.101 \end{figure}}
-                   
-? 
-
-Overfull \vbox (119.29683pt too high) detected at line 101
+<use ./images/Screen_Buergerhaushalt.png>
+Overfull \vbox (12.26636pt too high) detected at line 121
  []
 
 
-Package pgf Warning: File "logo.jpg" not found when defining image "pgflastimag
-e".
-(pgf)                Tried all extensions in ".pdf:.jpg:.jpeg:.png:" on input l
-ine 101.
+Overfull \hbox (6.21533pt too wide) has occurred while \output is active
+ [][][][]  
+ []
 
-[24
+[37
 
-]
+ <./images/logo.jpg> <./images/Screen_Buergerhaushalt.png (PNG copy)>]
+Overfull \hbox (6.21533pt too wide) has occurred while \output is active
+ [][][][]  
+ []
 
-! LaTeX Error: \begin{kasten} on input line 111 ended by \end{merkmale}.
+[38
 
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.111 \end{merkmale}}
-                     
-? 
+ <./images/logo.jpg>]
+<./images/Screen_Fixmystreet.png, id=1229, 1085.05376pt x 678.535pt>
+File: ./images/Screen_Fixmystreet.png Graphic file (type png)
 
-Package pgf Warning: File "logo.jpg" not found when defining image "pgflastimag
-e".
-(pgf)                Tried all extensions in ".pdf:.jpg:.jpeg:.png:" on input l
-ine 111.
-
-[25
-
-]
-
-LaTeX Warning: File `Screen_Fixmystreet.png' not found on input line 120.
-
-
-! Package pdftex.def Error: File `Screen_Fixmystreet.png' not found.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.120 \end{figure}}
-                   
-? 
-
-Overfull \vbox (110.8408pt too high) detected at line 120
+<use ./images/Screen_Fixmystreet.png>
+Overfull \vbox (4.16129pt too high) detected at line 140
  []
 
 
-Package pgf Warning: File "logo.jpg" not found when defining image "pgflastimag
-e".
-(pgf)                Tried all extensions in ".pdf:.jpg:.jpeg:.png:" on input l
-ine 120.
+Overfull \hbox (6.21533pt too wide) has occurred while \output is active
+ [][][][]  
+ []
 
-[26
+[39
 
-]
+ <./images/logo.jpg> <./images/Screen_Fixmystreet.png (PNG copy)>]
+Overfull \hbox (6.21533pt too wide) has occurred while \output is active
+ [][][][]  
+ []
 
-Package pgf Warning: File "logo.jpg" not found when defining image "pgflastimag
-e".
-(pgf)                Tried all extensions in ".pdf:.jpg:.jpeg:.png:" on input l
-ine 126.
+[40
 
-[27
-
-])
+ <./images/logo.jpg>])
 \tf@nav=\write5
 \openout5 = `vortrag.nav'.
 
@@ -1181,11 +1217,11 @@ LaTeX Font Warning: Size substitutions with differences
 
  ) 
 Here is how much of TeX's memory you used:
- 13119 strings out of 493848
- 231882 string characters out of 1152822
- 324326 words of memory out of 3000000
- 15951 multiletter control sequences out of 15000+50000
- 13894 words of font info for 29 fonts, out of 3000000 for 9000
+ 13227 strings out of 493848
+ 233317 string characters out of 1152822
+ 324325 words of memory out of 3000000
+ 16029 multiletter control sequences out of 15000+50000
+ 13580 words of font info for 28 fonts, out of 3000000 for 9000
  714 hyphenation exceptions out of 8191
  45i,16n,59p,344b,711s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/share/texmf/
@@ -1195,11 +1231,10 @@ m-super/sfsi1095.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss0800.pfb
 onts/type1/public/cm-super/sfss1000.pfb></usr/share/texmf/fonts/type1/public/cm
 -super/sfss1095.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss1440.pfb>
 </usr/share/texmf/fonts/type1/public/cm-super/sfsx0600.pfb></usr/share/texmf/fo
-nts/type1/public/cm-super/sfsx1095.pfb></usr/share/texmf/fonts/type1/public/cm-
-super/sftt1095.pfb>
-Output written on vortrag.pdf (27 pages, 579298 bytes).
+nts/type1/public/cm-super/sfsx1095.pfb>
+Output written on vortrag.pdf (40 pages, 2265999 bytes).
 PDF statistics:
- 905 PDF objects out of 1000 (max. 8388607)
- 58 named destinations out of 1000 (max. 500000)
- 151 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1341 PDF objects out of 1440 (max. 8388607)
+ 84 named destinations out of 1000 (max. 500000)
+ 407 words of extra memory for PDF output out of 10000 (max. 10000000)
 
