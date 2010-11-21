@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2010.9.14)  19 NOV 2010 09:48
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2010.11.19)  20 NOV 2010 12:54
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -6,7 +6,13 @@ entering extended mode
 (./vortrag.tex
 LaTeX2e <2009/09/24>
 Babel <v3.8l> and hyphenation patterns for english, usenglishmax, dumylang, noh
-yphenation, loaded.
+yphenation, farsi, arabic, croatian, bulgarian, ukrainian, russian, czech, slov
+ak, danish, dutch, finnish, french, basque, ngerman, german, german-x-2009-06-1
+9, ngerman-x-2009-06-19, ibycus, monogreek, greek, ancientgreek, hungarian, san
+skrit, italian, latin, latvian, lithuanian, mongolian2a, mongolian, bokmal, nyn
+orsk, romanian, irish, coptic, serbian, turkish, welsh, esperanto, uppersorbian
+, estonian, indonesian, interlingua, icelandic, kurmanji, slovenian, polish, po
+rtuguese, spanish, galician, catalan, swedish, ukenglish, pinyin, loaded.
 (/usr/share/texmf/tex/latex/beamer/base/beamer.cls
 (/usr/share/texmf/tex/latex/beamer/base/beamerbasercs.sty
 Package: beamerbasercs 2007/01/28 (rcs-revision 1.4)
@@ -625,6 +631,13 @@ Package: inputenc 2008/03/30 v1.1d Input encoding file
 (/usr/share/texmf-texlive/tex/latex/base/latin1.def
 File: latin1.def 2008/03/30 v1.1d Input encoding file
 ))
+(/usr/share/texmf-texlive/tex/latex/base/fontenc.sty
+Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
+
+(/usr/share/texmf-texlive/tex/latex/base/t1enc.def
+File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 43.
+))
 (/usr/share/texmf/tex/latex/beamer/themes/theme/compatibility/beamerthemesplit.
 sty
 Package: beamerthemesplit 2007/01/28  (rcs-revision 1.9)
@@ -653,34 +666,36 @@ Package: beamerouterthemesmoothbars 2007/01/28  (rcs-revision 1.6)
 )
 \c@merkmale=\count150
 \c@kasten=\count151
-No file vortrag.aux.
+\c@definiere=\count152
+(./vortrag.aux (./christian.aux) (./ulrich.aux))
 \openout1 = `vortrag.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+
 (/usr/share/texmf/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count152
+\scratchcounter=\count153
 \scratchdimen=\dimen178
 \scratchbox=\box52
-\nofMPsegments=\count153
-\nofMParguments=\count154
+\nofMPsegments=\count154
+\nofMParguments=\count155
 \everyMPshowfont=\toks40
-\MPscratchCnt=\count155
+\MPscratchCnt=\count156
 \MPscratchDim=\dimen179
-\MPnumerator=\count156
+\MPnumerator=\count157
 \everyMPtoPDFconversion=\toks41
 )
 *geometry auto-detecting driver*
@@ -724,140 +739,432 @@ driver: pdftex
 
 (1in=72.27pt, 1cm=28.45pt)
 -----------------------
-Package hyperref Info: Link coloring OFF on input line 21.
+Package hyperref Info: Link coloring OFF on input line 31.
 (/usr/share/texmf-texlive/tex/latex/hyperref/nameref.sty
 Package: nameref 2007/05/29 v2.31 Cross-referencing by name of section
 
 (/usr/share/texmf-texlive/tex/latex/oberdiek/refcount.sty
 Package: refcount 2008/08/11 v3.1 Data extraction from references (HO)
 )
-\c@section@level=\count157
+\c@section@level=\count158
 )
-LaTeX Info: Redefining \ref on input line 21.
-LaTeX Info: Redefining \pageref on input line 21.
+LaTeX Info: Redefining \ref on input line 31.
+LaTeX Info: Redefining \pageref on input line 31.
+ (./vortrag.out)
+(./vortrag.out)
 \@outlinefile=\write4
 \openout4 = `vortrag.out'.
 
 \AtBeginShipoutBox=\box53
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 21.
+(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 31.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 21.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 31.
 \symnumbers=\mathgroup6
 \sympureletters=\mathgroup7
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  OT1/cmss/m/n --> OT1/cmr/m/n on input line 21.
-LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 21.
+(Font)                  OT1/cmss/m/n --> T1/cmr/m/n on input line 31.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 31.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 21.
+(Font)                  OT1/cmr/bx/n --> T1/cmss/bx/n on input line 31.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 21.
-LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 21.
+(Font)                  OT1/cmr/bx/n --> T1/cmss/bx/n on input line 31.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 31.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/m/n on input line 21.
+(Font)                  OT1/cmss/m/n --> T1/cmss/m/n on input line 31.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> OT1/cmss/m/n on input line 21.
-LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 21.
+(Font)                  OT1/cmss/bx/n --> T1/cmss/m/n on input line 31.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 31.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> OT1/cmss/m/it on input line 21.
+(Font)                  OT1/cmr/m/it --> T1/cmss/m/it on input line 31.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> OT1/cmss/m/it on input line 21.
-LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 21.
+(Font)                  OT1/cmr/bx/it --> T1/cmss/m/it on input line 31.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 31.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 21.
+(Font)                  OT1/cmtt/m/n --> T1/cmtt/m/n on input line 31.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 21.
+(Font)                  OT1/cmtt/m/n --> T1/cmtt/m/n on input line 31.
 LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/bx/n on input line 21.
+(Font)                  T1/cmss/m/n --> T1/cmss/bx/n on input line 31.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  OT1/cmss/m/it --> OT1/cmss/bx/it on input line 21.
+(Font)                  T1/cmss/m/it --> T1/cmss/bx/it on input line 31.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
-(Font)                  OT1/cmss/bx/n --> OT1/cmr/bx/n on input line 21.
+(Font)                  OT1/cmss/bx/n --> T1/cmr/bx/n on input line 31.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> OT1/cmss/bx/n on input line 21.
+(Font)                  T1/cmss/bx/n --> T1/cmss/bx/n on input line 31.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/bx/n on input line 21.
+(Font)                  T1/cmss/m/n --> T1/cmss/bx/n on input line 31.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmss/m/it --> OT1/cmss/bx/it on input line 21.
+(Font)                  T1/cmss/m/it --> T1/cmss/bx/it on input line 31.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/bx/n on input line 21.
+(Font)                  T1/cmtt/m/n --> T1/cmtt/bx/n on input line 31.
 
 (/usr/share/texmf-texlive/tex/latex/translator/translator-theorem-dictionary-En
 glish.dict
 Dictionary: translator-theorem-dictionary, Language: English 
-)
-No file vortrag.nav.
+) (./vortrag.nav)
 
-LaTeX Font Warning: Font shape `OT1/cmss/bx/n' in size <4> not available
-(Font)              size <5> substituted on input line 23.
+LaTeX Font Warning: Font shape `T1/cmss/bx/n' in size <4> not available
+(Font)              size <5> substituted on input line 33.
 
 
-LaTeX Font Warning: Font shape `OT1/cmss/m/n' in size <4> not available
-(Font)              size <5> substituted on input line 23.
+Package pgf Warning: File "logo.jpg" not found when defining image "pgflastimag
+e".
+(pgf)                Tried all extensions in ".pdf:.jpg:.jpeg:.png:" on input l
+ine 33.
 
-[1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./logo.jpg>]
+LaTeX Font Warning: Font shape `T1/cmss/m/n' in size <4> not available
+(Font)              size <5> substituted on input line 33.
+
+[1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
+
+]
 \openout2 = `christian.aux'.
 
+ (./christian.tex
 
-(./christian.tex [2
+Package pgf Warning: File "logo.jpg" not found when defining image "pgflastimag
+e".
+(pgf)                Tried all extensions in ".pdf:.jpg:.jpeg:.png:" on input l
+ine 13.
+
+[2
 
 
- <./logo.jpg>] [3
+]
 
- <./logo.jpg>] [4
+Package pgf Warning: File "logo.jpg" not found when defining image "pgflastimag
+e".
+(pgf)                Tried all extensions in ".pdf:.jpg:.jpeg:.png:" on input l
+ine 29.
 
- <./logo.jpg>]
-<Transparenz_Umfrage.png, id=143, 786.94pt x 369.38pt>
-File: Transparenz_Umfrage.png Graphic file (type png)
+[3
 
-<use Transparenz_Umfrage.png> [5
+]
 
- <./logo.jpg> <./Transparenz_Umfrage.png (PNG copy)>] [6
+Package pgf Warning: File "logo.jpg" not found when defining image "pgflastimag
+e".
+(pgf)                Tried all extensions in ".pdf:.jpg:.jpeg:.png:" on input l
+ine 40.
 
- <./logo.jpg>] [7
+[4
 
- <./logo.jpg>] [8
+] <images/Transparenz_Umfrage.png, id=170, 786.94pt x 369.38pt>
+File: images/Transparenz_Umfrage.png Graphic file (type png)
 
- <./logo.jpg>] [9
+<use images/Transparenz_Umfrage.png>
 
- <./logo.jpg>]
+Package pgf Warning: File "logo.jpg" not found when defining image "pgflastimag
+e".
+(pgf)                Tried all extensions in ".pdf:.jpg:.jpeg:.png:" on input l
+ine 53.
+
+[5
+
+ <./images/Transparenz_Umfrage.png (PNG copy)>]
+
+Package pgf Warning: File "logo.jpg" not found when defining image "pgflastimag
+e".
+(pgf)                Tried all extensions in ".pdf:.jpg:.jpeg:.png:" on input l
+ine 69.
+
+[6
+
+]
+
+Package pgf Warning: File "logo.jpg" not found when defining image "pgflastimag
+e".
+(pgf)                Tried all extensions in ".pdf:.jpg:.jpeg:.png:" on input l
+ine 82.
+
+[7
+
+]
+
+Package pgf Warning: File "logo.jpg" not found when defining image "pgflastimag
+e".
+(pgf)                Tried all extensions in ".pdf:.jpg:.jpeg:.png:" on input l
+ine 93.
+
+[8
+
+]
+
+Package pgf Warning: File "logo.jpg" not found when defining image "pgflastimag
+e".
+(pgf)                Tried all extensions in ".pdf:.jpg:.jpeg:.png:" on input l
+ine 105.
+
+[9
+
+]
+
+Package pgf Warning: File "logo.jpg" not found when defining image "pgflastimag
+e".
+(pgf)                Tried all extensions in ".pdf:.jpg:.jpeg:.png:" on input l
+ine 119.
+
 [10
 
- <./logo.jpg>] [11
+]
 
- <./logo.jpg>] [12
+Package pgf Warning: File "logo.jpg" not found when defining image "pgflastimag
+e".
+(pgf)                Tried all extensions in ".pdf:.jpg:.jpeg:.png:" on input l
+ine 130.
 
- <./logo.jpg>]
-<facebook.png, id=362, 32.12pt x 32.12pt>
-File: facebook.png Graphic file (type png)
- <use facebook.png>
-<twitter.png, id=364, 32.12pt x 32.12pt>
-File: twitter.png Graphic file (type png)
- <use twitter.png>
-<youtube.png, id=365, 32.12pt x 32.12pt>
-File: youtube.png Graphic file (type png)
- <use youtube.png>
-<flickr.png, id=366, 32.12pt x 32.12pt>
-File: flickr.png Graphic file (type png)
- <use flickr.png>
-<blogger.png, id=367, 32.12pt x 32.12pt>
-File: blogger.png Graphic file (type png)
- <use blogger.png>
-<rss.png, id=368, 32.12pt x 32.12pt>
-File: rss.png Graphic file (type png)
- <use rss.png> [13
+[11
 
- <./logo.jpg> <./facebook.png> <./twitter.png> <./youtube.png> <./flickr.png> <
-./blogger.png> <./rss.png>])
+]
+
+Package pgf Warning: File "logo.jpg" not found when defining image "pgflastimag
+e".
+(pgf)                Tried all extensions in ".pdf:.jpg:.jpeg:.png:" on input l
+ine 140.
+
+[12
+
+] <images/facebook.png, id=403, 32.12pt x 32.12pt>
+File: images/facebook.png Graphic file (type png)
+
+<use images/facebook.png> <images/twitter.png, id=405, 32.12pt x 32.12pt>
+File: images/twitter.png Graphic file (type png)
+
+<use images/twitter.png> <images/youtube.png, id=406, 32.12pt x 32.12pt>
+File: images/youtube.png Graphic file (type png)
+
+<use images/youtube.png> <images/flickr.png, id=407, 32.12pt x 32.12pt>
+File: images/flickr.png Graphic file (type png)
+
+<use images/flickr.png> <images/blogger.png, id=408, 32.12pt x 32.12pt>
+File: images/blogger.png Graphic file (type png)
+
+<use images/blogger.png> <images/rss.png, id=409, 32.12pt x 32.12pt>
+File: images/rss.png Graphic file (type png)
+
+<use images/rss.png>
+
+Package pgf Warning: File "logo.jpg" not found when defining image "pgflastimag
+e".
+(pgf)                Tried all extensions in ".pdf:.jpg:.jpeg:.png:" on input l
+ine 163.
+
+[13
+
+ <./images/facebook.png> <./images/twitter.png> <./images/youtube.png> <./image
+s/flickr.png> <./images/blogger.png> <./images/rss.png>]
+<images/wikipedia.png, id=447, 200.75pt x 183.68625pt>
+File: images/wikipedia.png Graphic file (type png)
+
+<use images/wikipedia.png>
+
+Package pgf Warning: File "logo.jpg" not found when defining image "pgflastimag
+e".
+(pgf)                Tried all extensions in ".pdf:.jpg:.jpeg:.png:" on input l
+ine 186.
+
+[14
+
+ <./images/wikipedia.png>])
 \openout2 = `ulrich.aux'.
 
- (./ulrich.tex [14
+ (./ulrich.tex
+
+Package pgf Warning: File "logo.jpg" not found when defining image "pgflastimag
+e".
+(pgf)                Tried all extensions in ".pdf:.jpg:.jpeg:.png:" on input l
+ine 7.
+
+[15
 
 
 
- <./logo.jpg>])
+]
+
+Package pgf Warning: File "logo.jpg" not found when defining image "pgflastimag
+e".
+(pgf)                Tried all extensions in ".pdf:.jpg:.jpeg:.png:" on input l
+ine 17.
+
+[16
+
+]
+
+Package pgf Warning: File "logo.jpg" not found when defining image "pgflastimag
+e".
+(pgf)                Tried all extensions in ".pdf:.jpg:.jpeg:.png:" on input l
+ine 30.
+
+[17
+
+]
+
+Package pgf Warning: File "logo.jpg" not found when defining image "pgflastimag
+e".
+(pgf)                Tried all extensions in ".pdf:.jpg:.jpeg:.png:" on input l
+ine 45.
+
+[18
+
+]
+! Missing number, treated as zero.
+<to be read again> 
+                   S
+l.52 \end{kasten}}
+                  
+? 
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   S
+l.52 \end{kasten}}
+                  
+? 
+
+Package pgf Warning: File "logo.jpg" not found when defining image "pgflastimag
+e".
+(pgf)                Tried all extensions in ".pdf:.jpg:.jpeg:.png:" on input l
+ine 52.
+
+[19
+
+]
+
+Package pgf Warning: File "logo.jpg" not found when defining image "pgflastimag
+e".
+(pgf)                Tried all extensions in ".pdf:.jpg:.jpeg:.png:" on input l
+ine 61.
+
+[20
+
+]
+
+Package pgf Warning: File "logo.jpg" not found when defining image "pgflastimag
+e".
+(pgf)                Tried all extensions in ".pdf:.jpg:.jpeg:.png:" on input l
+ine 72.
+
+[21
+
+]
+
+LaTeX Warning: File `Screen_offener_Haushalt.png' not found on input line 82.
+
+
+! Package pdftex.def Error: File `Screen_offener_Haushalt.png' not found.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.82 }
+      
+? 
+LaTeX Font Info:    Try loading font information for T1+cmtt on input line 82.
+(/usr/share/texmf-texlive/tex/latex/base/t1cmtt.fd
+File: t1cmtt.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+Overfull \vbox (110.8408pt too high) detected at line 82
+ []
+
+
+Package pgf Warning: File "logo.jpg" not found when defining image "pgflastimag
+e".
+(pgf)                Tried all extensions in ".pdf:.jpg:.jpeg:.png:" on input l
+ine 82.
+
+[22
+
+]
+
+Package pgf Warning: File "logo.jpg" not found when defining image "pgflastimag
+e".
+(pgf)                Tried all extensions in ".pdf:.jpg:.jpeg:.png:" on input l
+ine 92.
+
+[23
+
+]
+
+LaTeX Warning: File `Screen_Buergerhaushalt.png' not found on input line 101.
+
+
+! Package pdftex.def Error: File `Screen_Buergerhaushalt.png' not found.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.101 \end{figure}}
+                   
+? 
+
+Overfull \vbox (119.29683pt too high) detected at line 101
+ []
+
+
+Package pgf Warning: File "logo.jpg" not found when defining image "pgflastimag
+e".
+(pgf)                Tried all extensions in ".pdf:.jpg:.jpeg:.png:" on input l
+ine 101.
+
+[24
+
+]
+
+! LaTeX Error: \begin{kasten} on input line 111 ended by \end{merkmale}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.111 \end{merkmale}}
+                     
+? 
+
+Package pgf Warning: File "logo.jpg" not found when defining image "pgflastimag
+e".
+(pgf)                Tried all extensions in ".pdf:.jpg:.jpeg:.png:" on input l
+ine 111.
+
+[25
+
+]
+
+LaTeX Warning: File `Screen_Fixmystreet.png' not found on input line 120.
+
+
+! Package pdftex.def Error: File `Screen_Fixmystreet.png' not found.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.120 \end{figure}}
+                   
+? 
+
+Overfull \vbox (110.8408pt too high) detected at line 120
+ []
+
+
+Package pgf Warning: File "logo.jpg" not found when defining image "pgflastimag
+e".
+(pgf)                Tried all extensions in ".pdf:.jpg:.jpeg:.png:" on input l
+ine 120.
+
+[26
+
+]
+
+Package pgf Warning: File "logo.jpg" not found when defining image "pgflastimag
+e".
+(pgf)                Tried all extensions in ".pdf:.jpg:.jpeg:.png:" on input l
+ine 126.
+
+[27
+
+])
 \tf@nav=\write5
 \openout5 = `vortrag.nav'.
 
@@ -867,31 +1174,32 @@ File: rss.png Graphic file (type png)
 \tf@snm=\write7
 \openout7 = `vortrag.snm'.
 
- (./vortrag.aux (./christian.aux)
-(./ulrich.aux))
+ (./vortrag.aux (./christian.aux) (./ulrich.aux))
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 1.0pt have occurred.
 
  ) 
 Here is how much of TeX's memory you used:
- 12801 strings out of 495061
- 228490 string characters out of 1182621
- 321520 words of memory out of 3000000
- 15594 multiletter control sequences out of 15000+50000
- 7658 words of font info for 27 fonts, out of 3000000 for 9000
- 28 hyphenation exceptions out of 8191
+ 13119 strings out of 493848
+ 231882 string characters out of 1152822
+ 324326 words of memory out of 3000000
+ 15951 multiletter control sequences out of 15000+50000
+ 13894 words of font info for 29 fonts, out of 3000000 for 9000
+ 714 hyphenation exceptions out of 8191
  45i,16n,59p,344b,711s stack positions out of 5000i,500n,10000p,200000b,50000s
-</usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/sha
-re/texmf-texlive/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/share/texmf-te
-xlive/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/share/texmf-texlive/fonts/
-type1/public/amsfonts/cm/cmss9.pfb></usr/share/texmf-texlive/fonts/type1/public
-/amsfonts/cm/cmssbx10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts
-/cm/cmssi10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmssi9
-.pfb>
-Output written on vortrag.pdf (14 pages, 433094 bytes).
+{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/share/texmf/
+fonts/type1/public/cm-super/sfsi0900.pfb></usr/share/texmf/fonts/type1/public/c
+m-super/sfsi1095.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss0800.pfb
+></usr/share/texmf/fonts/type1/public/cm-super/sfss0900.pfb></usr/share/texmf/f
+onts/type1/public/cm-super/sfss1000.pfb></usr/share/texmf/fonts/type1/public/cm
+-super/sfss1095.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss1440.pfb>
+</usr/share/texmf/fonts/type1/public/cm-super/sfsx0600.pfb></usr/share/texmf/fo
+nts/type1/public/cm-super/sfsx1095.pfb></usr/share/texmf/fonts/type1/public/cm-
+super/sftt1095.pfb>
+Output written on vortrag.pdf (27 pages, 579298 bytes).
 PDF statistics:
- 464 PDF objects out of 1000 (max. 8388607)
- 32 named destinations out of 1000 (max. 500000)
- 192 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 905 PDF objects out of 1000 (max. 8388607)
+ 58 named destinations out of 1000 (max. 500000)
+ 151 words of extra memory for PDF output out of 10000 (max. 10000000)
 
