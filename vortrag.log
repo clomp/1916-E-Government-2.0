@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2010.11.19)  21 NOV 2010 07:45
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2010.11.19)  27 NOV 2010 13:15
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -665,37 +665,40 @@ Package: beamercolorthemeorchid 2007/01/28  (rcs-revision 1.3)
 Package: beamerouterthemesmoothbars 2007/01/28  (rcs-revision 1.6)
 )
 \c@merkmale=\count150
-\c@kasten=\count151
-\c@definiere=\count152
+\c@einsatz=\count151
+\c@staerken=\count152
+\c@schwaechen=\count153
+\c@kasten=\count154
+\c@definiere=\count155
 (./vortrag.aux (./christian.aux) (./ulrich.aux))
 \openout1 = `vortrag.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
 
 (/usr/share/texmf/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count153
+\scratchcounter=\count156
 \scratchdimen=\dimen178
 \scratchbox=\box52
-\nofMPsegments=\count154
-\nofMParguments=\count155
+\nofMPsegments=\count157
+\nofMParguments=\count158
 \everyMPshowfont=\toks40
-\MPscratchCnt=\count156
+\MPscratchCnt=\count159
 \MPscratchDim=\dimen179
-\MPnumerator=\count157
+\MPnumerator=\count160
 \everyMPtoPDFconversion=\toks41
 )
 *geometry auto-detecting driver*
@@ -739,17 +742,17 @@ driver: pdftex
 
 (1in=72.27pt, 1cm=28.45pt)
 -----------------------
-Package hyperref Info: Link coloring OFF on input line 23.
+Package hyperref Info: Link coloring OFF on input line 27.
 (/usr/share/texmf-texlive/tex/latex/hyperref/nameref.sty
 Package: nameref 2007/05/29 v2.31 Cross-referencing by name of section
 
 (/usr/share/texmf-texlive/tex/latex/oberdiek/refcount.sty
 Package: refcount 2008/08/11 v3.1 Data extraction from references (HO)
 )
-\c@section@level=\count158
+\c@section@level=\count161
 )
-LaTeX Info: Redefining \ref on input line 23.
-LaTeX Info: Redefining \pageref on input line 23.
+LaTeX Info: Redefining \ref on input line 27.
+LaTeX Info: Redefining \pageref on input line 27.
  (./vortrag.out)
 (./vortrag.out)
 \@outlinefile=\write4
@@ -757,63 +760,63 @@ LaTeX Info: Redefining \pageref on input line 23.
 
 \AtBeginShipoutBox=\box53
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 23.
+(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 27.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 23.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 27.
 \symnumbers=\mathgroup6
 \sympureletters=\mathgroup7
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  OT1/cmss/m/n --> T1/cmr/m/n on input line 23.
-LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 23.
+(Font)                  OT1/cmss/m/n --> T1/cmr/m/n on input line 27.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 27.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> T1/cmss/bx/n on input line 23.
+(Font)                  OT1/cmr/bx/n --> T1/cmss/bx/n on input line 27.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmr/bx/n --> T1/cmss/bx/n on input line 23.
-LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 23.
+(Font)                  OT1/cmr/bx/n --> T1/cmss/bx/n on input line 27.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 27.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> T1/cmss/m/n on input line 23.
+(Font)                  OT1/cmss/m/n --> T1/cmss/m/n on input line 27.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> T1/cmss/m/n on input line 23.
-LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 23.
+(Font)                  OT1/cmss/bx/n --> T1/cmss/m/n on input line 27.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 27.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> T1/cmss/m/it on input line 23.
+(Font)                  OT1/cmr/m/it --> T1/cmss/m/it on input line 27.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> T1/cmss/m/it on input line 23.
-LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 23.
+(Font)                  OT1/cmr/bx/it --> T1/cmss/m/it on input line 27.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 27.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> T1/cmtt/m/n on input line 23.
+(Font)                  OT1/cmtt/m/n --> T1/cmtt/m/n on input line 27.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> T1/cmtt/m/n on input line 23.
+(Font)                  OT1/cmtt/m/n --> T1/cmtt/m/n on input line 27.
 LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
-(Font)                  T1/cmss/m/n --> T1/cmss/bx/n on input line 23.
+(Font)                  T1/cmss/m/n --> T1/cmss/bx/n on input line 27.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  T1/cmss/m/it --> T1/cmss/bx/it on input line 23.
+(Font)                  T1/cmss/m/it --> T1/cmss/bx/it on input line 27.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
-(Font)                  OT1/cmss/bx/n --> T1/cmr/bx/n on input line 23.
+(Font)                  OT1/cmss/bx/n --> T1/cmr/bx/n on input line 27.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  T1/cmss/bx/n --> T1/cmss/bx/n on input line 23.
+(Font)                  T1/cmss/bx/n --> T1/cmss/bx/n on input line 27.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  T1/cmss/m/n --> T1/cmss/bx/n on input line 23.
+(Font)                  T1/cmss/m/n --> T1/cmss/bx/n on input line 27.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  T1/cmss/m/it --> T1/cmss/bx/it on input line 23.
+(Font)                  T1/cmss/m/it --> T1/cmss/bx/it on input line 27.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  T1/cmtt/m/n --> T1/cmtt/bx/n on input line 23.
+(Font)                  T1/cmtt/m/n --> T1/cmtt/bx/n on input line 27.
 
 (/usr/share/texmf-texlive/tex/latex/translator/translator-theorem-dictionary-En
 glish.dict
 Dictionary: translator-theorem-dictionary, Language: English 
 ) (./vortrag.nav)
-Overfull \hbox (2.77016pt too wide) in paragraph at lines 23--23
+Overfull \hbox (2.77016pt too wide) in paragraph at lines 27--27
  [][][][]  
  []
 
 
 LaTeX Font Warning: Font shape `T1/cmss/bx/n' in size <4> not available
-(Font)              size <5> substituted on input line 25.
+(Font)              size <5> substituted on input line 29.
 
 
 LaTeX Font Warning: Font shape `T1/cmss/m/n' in size <4> not available
-(Font)              size <5> substituted on input line 25.
+(Font)              size <5> substituted on input line 29.
 
 
 Overfull \hbox (2.77016pt too wide) has occurred while \output is active
@@ -849,7 +852,7 @@ Overfull \hbox (2.77016pt too wide) has occurred while \output is active
 [4
 
  <./images/logo.jpg>]
-<images/Transparenz_Umfrage.png, id=175, 786.94pt x 369.38pt>
+<images/Transparenz_Umfrage.png, id=177, 786.94pt x 369.38pt>
 File: images/Transparenz_Umfrage.png Graphic file (type png)
 
 <use images/Transparenz_Umfrage.png>
@@ -908,34 +911,38 @@ Overfull \hbox (6.21533pt too wide) has occurred while \output is active
 
 [12
 
- <./images/logo.jpg>] <images/facebook.png, id=419, 32.12pt x 32.12pt>
-File: images/facebook.png Graphic file (type png)
+ <./images/logo.jpg>] <images/facebook.jpg, id=421, 164.615pt x 164.615pt>
+File: images/facebook.jpg Graphic file (type jpg)
 
-<use images/facebook.png> <images/twitter.png, id=421, 32.12pt x 32.12pt>
-File: images/twitter.png Graphic file (type png)
+<use images/facebook.jpg>
+<images/twitter.jpg, id=422, 225.84375pt x 225.84375pt>
+File: images/twitter.jpg Graphic file (type jpg)
 
-<use images/twitter.png> <images/youtube.png, id=422, 32.12pt x 32.12pt>
-File: images/youtube.png Graphic file (type png)
+<use images/twitter.jpg> <images/youtube.jpg, id=423, 204.765pt x 204.765pt>
+File: images/youtube.jpg Graphic file (type jpg)
 
-<use images/youtube.png> <images/flickr.png, id=423, 32.12pt x 32.12pt>
-File: images/flickr.png Graphic file (type png)
+<use images/youtube.jpg> <images/flickr.jpg, id=424, 114.4275pt x 114.4275pt>
+File: images/flickr.jpg Graphic file (type jpg)
 
-<use images/flickr.png> <images/blogger.png, id=424, 32.12pt x 32.12pt>
-File: images/blogger.png Graphic file (type png)
+<use images/flickr.jpg> <images/blogger.jpg, id=425, 186.6975pt x 187.70125pt>
+File: images/blogger.jpg Graphic file (type jpg)
 
-<use images/blogger.png> <images/rss.png, id=425, 32.12pt x 32.12pt>
-File: images/rss.png Graphic file (type png)
+<use images/blogger.jpg> <images/rss.jpg, id=426, 225.84375pt x 225.84375pt>
+File: images/rss.jpg Graphic file (type jpg)
 
-<use images/rss.png>
+<use images/rss.jpg> <images/email.jpg, id=427, 225.84375pt x 225.84375pt>
+File: images/email.jpg Graphic file (type jpg)
+
+<use images/email.jpg>
 Overfull \hbox (6.21533pt too wide) has occurred while \output is active
  [][][][]  
  []
 
 [13
 
- <./images/logo.jpg> <./images/facebook.png> <./images/twitter.png> <./images/y
-outube.png> <./images/flickr.png> <./images/blogger.png> <./images/rss.png>] <i
-mages/Merkel.png, id=465, 954.56625pt x 631.35875pt>
+ <./images/logo.jpg> <./images/facebook.jpg> <./images/twitter.jpg> <./images/y
+outube.jpg> <./images/flickr.jpg> <./images/blogger.jpg> <./images/rss.jpg> <./
+images/email.jpg>] <images/Merkel.png, id=459, 954.56625pt x 631.35875pt>
 File: images/Merkel.png Graphic file (type png)
 
 <use images/Merkel.png>
@@ -946,7 +953,7 @@ Overfull \hbox (6.21533pt too wide) has occurred while \output is active
 [14
 
  <./images/logo.jpg> <./images/Merkel.png>]
-<images/wikipedia.png, id=497, 200.75pt x 183.68625pt>
+<images/wikipedia.png, id=492, 200.75pt x 183.68625pt>
 File: images/wikipedia.png Graphic file (type png)
 
 <use images/wikipedia.png>
@@ -957,7 +964,7 @@ Overfull \hbox (6.21533pt too wide) has occurred while \output is active
 [15
 
  <./images/wikipedia.png> <./images/logo.jpg>]
-<images/Stadtwiki.png, id=529, 1108.14pt x 662.475pt>
+<images/Stadtwiki.png, id=524, 1108.14pt x 662.475pt>
 File: images/Stadtwiki.png Graphic file (type png)
 
 <use images/Stadtwiki.png>
@@ -975,11 +982,11 @@ Overfull \hbox (6.21533pt too wide) has occurred while \output is active
 [17
 
  <./images/logo.jpg>]
-<images/Buergerhaushalt.png, id=590, 606.265pt x 475.7775pt>
+<images/Buergerhaushalt.png, id=585, 606.265pt x 475.7775pt>
 File: images/Buergerhaushalt.png Graphic file (type png)
 
 <use images/Buergerhaushalt.png>
-Overfull \vbox (1.72884pt too high) detected at line 216
+Overfull \vbox (1.72884pt too high) detected at line 221
  []
 
 
@@ -997,53 +1004,31 @@ Overfull \hbox (6.21533pt too wide) has occurred while \output is active
 [19
 
  <./images/logo.jpg>]
-<images/OffenerHaushalt.png, id=652, 1011.78pt x 558.085pt>
-File: images/OffenerHaushalt.png Graphic file (type png)
-
-<use images/OffenerHaushalt.png>
 Overfull \hbox (6.21533pt too wide) has occurred while \output is active
  [][][][]  
  []
 
 [20
 
- <./images/logo.jpg> <./images/OffenerHaushalt.png (PNG copy)>]
+ <./images/logo.jpg>]
 Overfull \hbox (6.21533pt too wide) has occurred while \output is active
  [][][][]  
  []
 
 [21
 
- <./images/logo.jpg>]
-<images/Dashboard.png, id=713, 898.35625pt x 573.14125pt>
-File: images/Dashboard.png Graphic file (type png)
+ <./images/logo.jpg>] <images/Maerker.png, id=707, 1204.5pt x 903.375pt>
+File: images/Maerker.png Graphic file (type png)
 
-<use images/Dashboard.png>
+<use images/Maerker.png>
 Overfull \hbox (6.21533pt too wide) has occurred while \output is active
  [][][][]  
  []
 
 [22
 
- <./images/logo.jpg> <./images/Dashboard.png (PNG copy)>]
-Overfull \hbox (6.21533pt too wide) has occurred while \output is active
- [][][][]  
- []
-
-[23
-
- <./images/logo.jpg>] <images/Datenportale.png, id=774, 803.0pt x 602.25pt>
-File: images/Datenportale.png Graphic file (type png)
-
-<use images/Datenportale.png>
-Overfull \hbox (6.21533pt too wide) has occurred while \output is active
- [][][][]  
- []
-
-[24
-
- <./images/logo.jpg> <./images/Datenportale.png>]
-<images/GovCamp.png, id=805, 316.18124pt x 65.24374pt>
+ <./images/logo.jpg> <./images/Maerker.png>]
+<images/GovCamp.png, id=738, 316.18124pt x 65.24374pt>
 File: images/GovCamp.png Graphic file (type png)
 
 <use images/GovCamp.png>
@@ -1051,7 +1036,7 @@ Overfull \hbox (6.21533pt too wide) has occurred while \output is active
  [][][][]  
  []
 
-[25
+[23
 
  <./images/logo.jpg> <./images/GovCamp.png (PNG copy)>])
 \openout2 = `ulrich.aux'.
@@ -1061,9 +1046,23 @@ Overfull \hbox (6.21533pt too wide) has occurred while \output is active
  [][][][]  
  []
 
+[24
+
+
+
+ <./images/logo.jpg>]
+Overfull \hbox (6.21533pt too wide) has occurred while \output is active
+ [][][][]  
+ []
+
+[25
+
+ <./images/logo.jpg>]
+Overfull \hbox (6.21533pt too wide) has occurred while \output is active
+ [][][][]  
+ []
+
 [26
-
-
 
  <./images/logo.jpg>]
 Overfull \hbox (6.21533pt too wide) has occurred while \output is active
@@ -1087,26 +1086,17 @@ Overfull \hbox (6.21533pt too wide) has occurred while \output is active
 [29
 
  <./images/logo.jpg>]
+<./images/Dashboard.png, id=949, 898.35625pt x 573.14125pt>
+File: ./images/Dashboard.png Graphic file (type png)
+
+<use ./images/Dashboard.png>
 Overfull \hbox (6.21533pt too wide) has occurred while \output is active
  [][][][]  
  []
 
 [30
 
- <./images/logo.jpg>]
-! Missing number, treated as zero.
-<to be read again> 
-                   S
-l.58 \end{kasten}}
-                  
-? 
-! Illegal unit of measure (pt inserted).
-<to be read again> 
-                   S
-l.58 \end{kasten}}
-                  
-? 
-
+ <./images/logo.jpg> <./images/Dashboard.png (PNG copy)>]
 Overfull \hbox (6.21533pt too wide) has occurred while \output is active
  [][][][]  
  []
@@ -1114,13 +1104,34 @@ Overfull \hbox (6.21533pt too wide) has occurred while \output is active
 [31
 
  <./images/logo.jpg>]
+<./images/Mashup.png, id=1011, 1264.725pt x 789.95125pt>
+File: ./images/Mashup.png Graphic file (type png)
+
+<use ./images/Mashup.png>
+Overfull \vbox (4.49739pt too high) detected at line 97
+ []
+
+
 Overfull \hbox (6.21533pt too wide) has occurred while \output is active
  [][][][]  
  []
 
 [32
 
- <./images/logo.jpg>]
+ <./images/logo.jpg> <./images/Mashup.png (PNG copy)>]
+! Missing number, treated as zero.
+<to be read again> 
+                   \par 
+l.113 \end{merkmale}}
+                     
+? 
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \par 
+l.113 \end{merkmale}}
+                     
+? 
+
 Overfull \hbox (6.21533pt too wide) has occurred while \output is active
  [][][][]  
  []
@@ -1135,21 +1146,13 @@ Overfull \hbox (6.21533pt too wide) has occurred while \output is active
 [34
 
  <./images/logo.jpg>]
-<./images/Screen_offener_Haushalt.png, id=1107, 1109.14375pt x 693.59125pt>
-File: ./images/Screen_offener_Haushalt.png Graphic file (type png)
-
-<use ./images/Screen_offener_Haushalt.png>
-Overfull \vbox (4.16177pt too high) detected at line 102
- []
-
-
 Overfull \hbox (6.21533pt too wide) has occurred while \output is active
  [][][][]  
  []
 
 [35
 
- <./images/logo.jpg> <./images/Screen_offener_Haushalt.png (PNG copy)>]
+ <./images/logo.jpg>]
 Overfull \hbox (6.21533pt too wide) has occurred while \output is active
  [][][][]  
  []
@@ -1157,11 +1160,11 @@ Overfull \hbox (6.21533pt too wide) has occurred while \output is active
 [36
 
  <./images/logo.jpg>]
-<./images/Screen_Buergerhaushalt.png, id=1168, 1006.76125pt x 628.3475pt>
-File: ./images/Screen_Buergerhaushalt.png Graphic file (type png)
+<./images/Screen_offener_Haushalt.png, id=1162, 1109.14375pt x 693.59125pt>
+File: ./images/Screen_offener_Haushalt.png Graphic file (type png)
 
-<use ./images/Screen_Buergerhaushalt.png>
-Overfull \vbox (12.26636pt too high) detected at line 121
+<use ./images/Screen_offener_Haushalt.png>
+Overfull \vbox (4.16177pt too high) detected at line 153
  []
 
 
@@ -1171,34 +1174,12 @@ Overfull \hbox (6.21533pt too wide) has occurred while \output is active
 
 [37
 
- <./images/logo.jpg> <./images/Screen_Buergerhaushalt.png (PNG copy)>]
+ <./images/logo.jpg> <./images/Screen_offener_Haushalt.png (PNG copy)>]
 Overfull \hbox (6.21533pt too wide) has occurred while \output is active
  [][][][]  
  []
 
 [38
-
- <./images/logo.jpg>]
-<./images/Screen_Fixmystreet.png, id=1229, 1085.05376pt x 678.535pt>
-File: ./images/Screen_Fixmystreet.png Graphic file (type png)
-
-<use ./images/Screen_Fixmystreet.png>
-Overfull \vbox (4.16129pt too high) detected at line 140
- []
-
-
-Overfull \hbox (6.21533pt too wide) has occurred while \output is active
- [][][][]  
- []
-
-[39
-
- <./images/logo.jpg> <./images/Screen_Fixmystreet.png (PNG copy)>]
-Overfull \hbox (6.21533pt too wide) has occurred while \output is active
- [][][][]  
- []
-
-[40
 
  <./images/logo.jpg>])
 \tf@nav=\write5
@@ -1217,24 +1198,30 @@ LaTeX Font Warning: Size substitutions with differences
 
  ) 
 Here is how much of TeX's memory you used:
- 13227 strings out of 493848
- 233317 string characters out of 1152822
- 324325 words of memory out of 3000000
- 16029 multiletter control sequences out of 15000+50000
- 13580 words of font info for 28 fonts, out of 3000000 for 9000
+ 13259 strings out of 493848
+ 233716 string characters out of 1152822
+ 323369 words of memory out of 3000000
+ 16064 multiletter control sequences out of 15000+50000
+ 13571 words of font info for 28 fonts, out of 3000000 for 9000
  714 hyphenation exceptions out of 8191
- 45i,16n,59p,344b,711s stack positions out of 5000i,500n,10000p,200000b,50000s
-{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/share/texmf/
-fonts/type1/public/cm-super/sfsi0900.pfb></usr/share/texmf/fonts/type1/public/c
-m-super/sfsi1095.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss0800.pfb
-></usr/share/texmf/fonts/type1/public/cm-super/sfss0900.pfb></usr/share/texmf/f
-onts/type1/public/cm-super/sfss1000.pfb></usr/share/texmf/fonts/type1/public/cm
--super/sfss1095.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss1440.pfb>
-</usr/share/texmf/fonts/type1/public/cm-super/sfsx0600.pfb></usr/share/texmf/fo
-nts/type1/public/cm-super/sfsx1095.pfb>
-Output written on vortrag.pdf (40 pages, 2265999 bytes).
+ 45i,16n,59p,335b,822s stack positions out of 5000i,500n,10000p,200000b,50000s
+pdfTeX warning (dest): name{Navigation39} has been referenced but does not ex
+ist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Navigation40} has been referenced but does not exis
+t, replaced by a fixed one
+
+{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/share/texmf/fo
+nts/type1/public/cm-super/sfsi0900.pfb></usr/share/texmf/fonts/type1/public/cm-
+super/sfsi1095.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss0800.pfb><
+/usr/share/texmf/fonts/type1/public/cm-super/sfss0900.pfb></usr/share/texmf/fon
+ts/type1/public/cm-super/sfss1000.pfb></usr/share/texmf/fonts/type1/public/cm-s
+uper/sfss1095.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss1440.pfb></
+usr/share/texmf/fonts/type1/public/cm-super/sfsx0600.pfb></usr/share/texmf/font
+s/type1/public/cm-super/sfsx0900.pfb>
+Output written on vortrag.pdf (38 pages, 2468697 bytes).
 PDF statistics:
- 1341 PDF objects out of 1440 (max. 8388607)
- 84 named destinations out of 1000 (max. 500000)
- 407 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1276 PDF objects out of 1440 (max. 8388607)
+ 82 named destinations out of 1000 (max. 500000)
+ 392 words of extra memory for PDF output out of 10000 (max. 10000000)
 
