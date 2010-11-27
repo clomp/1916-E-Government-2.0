@@ -1,9 +1,11 @@
+%!TEX root =  vortrag.tex
 \section{Open Data}
 
 \frame{
 \frametitle{Open Data}
 \begin{definiere} [OpenData]
-"Open Data ist eine Philosophie und Praxis, die zur Grundlage hat, dass Daten frei für jedermann verfügbar und frei von Copyrights, Patenten oder anderen Kontrollmechanismen sind." - Wikipedia
+Für jedermann sollte [...] ein Zugang zu jenen Daten der Verwaltung frei gegeben werden, die keinen Datenschutz-
+oder Sicherheitsbeschränkungen unterliegen."  Jörg von Lucke in "Open Government, Öffnung von Staat und Verwaltung"
 \end{definiere}}
 
 \frame{
@@ -14,6 +16,9 @@ Das "Informationsfreiheitsgesetz vom 5. September 2005 (BGBl. I S. 2722)" bildet
 "§ 1 Grundsatz (1) Jeder hat nach Maßgabe dieses Gesetzes gegenüber den Behörden des Bundes einen Anspruch auf Zugang zu amtlichen Informationen."\baselineskip \baselineskip
 
 "§ 2 Begriffsbestimmungen. Im Sinne dieses Gesetzes ist amtliche Information: jede amtlichen Zwecken dienende Aufzeichnung, unabhängig von der Art ihrer Speicherung [...]."
+\end{kasten}
+\begin{kasten}
+ Fehlen einer Open Data Lizenz  (wie z.B. in GroßBritanien)
 \end{kasten}}
 
 \frame{
@@ -51,18 +56,68 @@ Grundsätze des OpenData Networks:
 \end{merkmale}}
 
 \frame{
+\frametitle{Darstellungsformen: Dashboard}
+\begin{merkmale}[Dashboard]
+\begin{itemize}
+  \item Visualisierung von (verteilten) Daten z.B. als Ampel-, Tachometer- oder Thermometer-Darstellung
+  \item Starke Komprimierung der Informationen
+  \item Informationsgehalt stark abhängig von Zielen und Adressaten der Visualisierung
+\end{itemize}
+\end{merkmale}
+}
+
+\frame{
+\frametitle{Darstellungsformen: Dashboard}
+\begin{figure}
+\begin{center}
+\includegraphics[width=10cm]{./images/Dashboard.png}
+\end{center}
+\end{figure}
+}
+
+\frame{
+\frametitle{Darstellungsformen: Mashup}
+\begin{merkmale}[Mashup]
+\begin{itemize}
+  \item Erstellung neuer Inhalte durch Kombination bereits verfügbarer (oft über APIs)
+  \item Häufig Verwendung von Karten oder Darstellung von Beziehungen
+  \item Meist interaktiv
+\end{itemize}
+\end{merkmale}
+}
+
+\frame{
+\frametitle{Darstellungsformen: Mashup}
+\begin{figure}
+\begin{center}
+\includegraphics[width=10cm]{./images/Mashup.png}
+\caption{Ausschnitt der Seite labs.vis4.net/parteispenden, November 2010}
+\end{center}
+\end{figure}
+}
+
+\frame{
 \frametitle{Geodateninfrastruktur}
-\begin{kasten}[Inspire Richtlinie 2004/0175]
+\begin{kasten}[INSPIRE Richtlinie 2004/0175]
 Ziel der EU-Inspire Richtlinie 2004/0175\baselineskip
+
 "Schaffung einer Geodateninfrastruktur in der Europäischen Gemeinschaft"
-\end{kasten}}
+\end{kasten}
+ \begin{merkmale}[INSPIRE]
+\begin{itemize}
+  \item Daten sollten nur einmal erhoben und vorgehalten werden
+  \item Daten aus unterschiedlichen Quellen sollten miteinander kombinierbar sein
+  \item Daten verschiedenen Detailgrades sollen sich nahtlos zusammenfügen
+  \item Daten sollen leicht auffindbar und transparent zur Verfügung stehen 
+ \end{itemize}
+\end{merkmale}}
 
 \frame{
 \frametitle{Geodateninfastruktur}
 \begin{merkmale}[Geodateninfrastruktur]
 \begin{itemize}
-  \item Die GDI ist ein Netzwerk zum Austausch von Geodaten zwischen Produzenten, Dienstleistern und Nutzern im Geo-Bereich und setzt die Richtlinie in D um
-  \item Serviceorientierte Architektur
+  \item Die GDI ist ein Netzwerk zum Austausch von Geodaten zwischen Produzenten, Dienstleistern und Nutzern im Geo-Bereich und setzt die INSPIRE Richtlinie in Deutschland um
+  \item Es handelt sich um eine Serviceorientierte Architektur
   \item Daten, Dienste und APIs nach ISO 191xx und Implementierungsspezifikationen des Open Geospatial Consortiums
  \end{itemize}
 \end{merkmale}}
@@ -73,23 +128,19 @@ Ziel der EU-Inspire Richtlinie 2004/0175\baselineskip
 Ziele:
   \begin{itemize}
     \item Bessere Handlungsmöglichkeiten bei der Bekämpfung von Umweltproblemen
-    \item Zugang zu allen Geodaten, die sonst bei einzelnen Anbietern getrennt vorliegen
+    \item Zugang zu allen Geodaten, die für Regierungsentscheidungen notwendig sind
   \end{itemize}
 \end{merkmale}}
-
-
-
 
 \frame{
 \frametitle{Beispiel: Offener Haushalt}
 \begin{merkmale}[Offener Haushalt]
 \begin{itemize}
-  \item Verwendung der Daten des Finanzministeriums
-  \item Visuelle Aufbereitung der Daten ohne Verlust von Details
+  \item Verwendung der Rohdaten des Finanzministeriums
+  \item Visuelle Aufbereitung der Daten ohne Verlust von Details durch Baumstruktur
   \item Möglichkeit der Weiterverarbeitung der Daten
 \end{itemize}
-\end{merkmale}
-}
+\end{merkmale}}
 
 \frame{
 \frametitle{Beispiel: Offener Haushalt}
@@ -100,44 +151,6 @@ Ziele:
 \end{center}
 \end{figure}
 }
-
-\frame{
-\frametitle{Beispiel: Bürgerhaushalt Köln}
-\begin{merkmale}[Bürgerhaushalt Köln]
-\begin{itemize}
-  \item Abgabe, Bewertung und Diskussion von/über Vorschläge
-  \item Anschließende Prüfung der jeweils besten 100 Vorschläge der Bereiche "Schule / Bildung" und "Umweltschutz" 
-  \item Abschließend begründete Entscheidung über die Vorschläge durch den Rat der Stadt Köln
-\end{itemize}
-\end{merkmale}}
-
-\frame{
-\frametitle{Beispiel:Bürgerhaushalt Köln}
-\begin{figure}
-\begin{center}
-\includegraphics[width=10cm]{./images/Screen_Buergerhaushalt.png}
-\caption{Ausschnitt der Seite buergerhaushalt.stadt-koeln.de, November 2010}
-\end{center}
-\end{figure}}
-
-\frame{
-\frametitle{Beispiel: Fix My Street}
-\begin{merkmale}[Fix My Street]
-\begin{itemize}
-  \item Melden und Diskutieren von örtlichen Problemen (z.B. Vandalismus, Defekte)
-  \item Weiterleitung an die Zuständige öffentliche Stelle
-  \item Rückmeldung über beschlossenen Maßnahmen auf Fix My Street durch BürgerInnen
-\end{itemize}
-\end{merkmale}}
-
-\frame{
-\frametitle{Beispiel: Fix My Street}
-\begin{figure}
-\begin{center}
-\includegraphics[width=10cm]{./images/Screen_Fixmystreet.png}
-\caption{Ausschnitt der Seite www.fixmystreet.de, November 2010}
-\end{center}
-\end{figure}}
 
 \frame{
 \frametitle{Besipiel: Hackday}
