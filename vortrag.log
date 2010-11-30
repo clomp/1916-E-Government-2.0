@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2010.11.19)  29 NOV 2010 18:57
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2010.11.19)  30 NOV 2010 14:09
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -883,59 +883,52 @@ Overfull \hbox (2.77016pt too wide) has occurred while \output is active
 
 [8
 
- <./images/logo.jpg>]
+ <./images/logo.jpg>] <images/direktzu.png, id=301, 164.615pt x 102.3825pt>
+File: images/direktzu.png Graphic file (type png)
+
+<use images/direktzu.png> <images/facebook.jpg, id=302, 164.615pt x 164.615pt>
+File: images/facebook.jpg Graphic file (type jpg)
+
+<use images/facebook.jpg>
+<images/twitter.jpg, id=303, 225.84375pt x 225.84375pt>
+File: images/twitter.jpg Graphic file (type jpg)
+
+<use images/twitter.jpg> <images/youtube.jpg, id=304, 204.765pt x 204.765pt>
+File: images/youtube.jpg Graphic file (type jpg)
+
+<use images/youtube.jpg> <images/flickr.jpg, id=305, 114.4275pt x 114.4275pt>
+File: images/flickr.jpg Graphic file (type jpg)
+
+<use images/flickr.jpg> <images/blogger.jpg, id=306, 186.6975pt x 187.70125pt>
+File: images/blogger.jpg Graphic file (type jpg)
+
+<use images/blogger.jpg> <images/rss.jpg, id=307, 225.84375pt x 225.84375pt>
+File: images/rss.jpg Graphic file (type jpg)
+
+<use images/rss.jpg> <images/email.jpg, id=308, 225.84375pt x 225.84375pt>
+File: images/email.jpg Graphic file (type jpg)
+
+<use images/email.jpg>
 Overfull \hbox (2.77016pt too wide) has occurred while \output is active
  [][][][]  
  []
 
 [9
 
- <./images/logo.jpg>] <images/direktzu.png, id=331, 164.615pt x 102.3825pt>
-File: images/direktzu.png Graphic file (type png)
-
-<use images/direktzu.png> <images/facebook.jpg, id=332, 164.615pt x 164.615pt>
-File: images/facebook.jpg Graphic file (type jpg)
-
-<use images/facebook.jpg>
-<images/twitter.jpg, id=333, 225.84375pt x 225.84375pt>
-File: images/twitter.jpg Graphic file (type jpg)
-
-<use images/twitter.jpg> <images/youtube.jpg, id=334, 204.765pt x 204.765pt>
-File: images/youtube.jpg Graphic file (type jpg)
-
-<use images/youtube.jpg> <images/flickr.jpg, id=335, 114.4275pt x 114.4275pt>
-File: images/flickr.jpg Graphic file (type jpg)
-
-<use images/flickr.jpg> <images/blogger.jpg, id=336, 186.6975pt x 187.70125pt>
-File: images/blogger.jpg Graphic file (type jpg)
-
-<use images/blogger.jpg> <images/rss.jpg, id=337, 225.84375pt x 225.84375pt>
-File: images/rss.jpg Graphic file (type jpg)
-
-<use images/rss.jpg> <images/email.jpg, id=338, 225.84375pt x 225.84375pt>
-File: images/email.jpg Graphic file (type jpg)
-
-<use images/email.jpg>
-Overfull \hbox (6.21533pt too wide) has occurred while \output is active
- [][][][]  
- []
-
-[10
-
  <./images/logo.jpg> <./images/direktzu.png (PNG copy)> <./images/facebook.jpg>
  <./images/twitter.jpg> <./images/youtube.jpg> <./images/flickr.jpg> <./images/
 blogger.jpg> <./images/rss.jpg> <./images/email.jpg>]
-<images/Merkel.png, id=369, 954.56625pt x 631.35875pt>
+<images/Merkel.png, id=339, 954.56625pt x 631.35875pt>
 File: images/Merkel.png Graphic file (type png)
  <use images/Merkel.png>
 Overfull \hbox (6.21533pt too wide) has occurred while \output is active
  [][][][]  
  []
 
-[11
+[10
 
  <./images/logo.jpg> <./images/Merkel.png>]
-<images/wikipedia.png, id=402, 200.75pt x 183.68625pt>
+<images/wikipedia.png, id=372, 200.75pt x 183.68625pt>
 File: images/wikipedia.png Graphic file (type png)
 
 <use images/wikipedia.png>
@@ -943,16 +936,16 @@ Overfull \hbox (6.21533pt too wide) has occurred while \output is active
  [][][][]  
  []
 
-[12
+[11
 
  <./images/wikipedia.png> <./images/logo.jpg>]
 Overfull \hbox (6.21533pt too wide) has occurred while \output is active
  [][][][]  
  []
 
-[13
+[12
 
- <./images/logo.jpg>] <images/Stadtwiki.png, id=465, 1108.14pt x 662.475pt>
+ <./images/logo.jpg>] <images/Stadtwiki.png, id=434, 1108.14pt x 662.475pt>
 File: images/Stadtwiki.png Graphic file (type png)
 
 <use images/Stadtwiki.png>
@@ -960,21 +953,21 @@ Overfull \hbox (6.21533pt too wide) has occurred while \output is active
  [][][][]  
  []
 
-[14
+[13
 
  <./images/logo.jpg> <./images/Stadtwiki.png (PNG copy)>]
 Overfull \hbox (6.21533pt too wide) has occurred while \output is active
  [][][][]  
  []
 
-[15
+[14
 
  <./images/logo.jpg>]
-<images/Buergerhaushalt.png, id=526, 606.265pt x 475.7775pt>
+<images/Buergerhaushalt.png, id=496, 606.265pt x 475.7775pt>
 File: images/Buergerhaushalt.png Graphic file (type png)
 
 <use images/Buergerhaushalt.png>
-Overfull \vbox (1.72884pt too high) detected at line 247
+Overfull \vbox (1.72884pt too high) detected at line 246
  []
 
 
@@ -982,16 +975,16 @@ Overfull \hbox (6.21533pt too wide) has occurred while \output is active
  [][][][]  
  []
 
-[16
+[15
 
  <./images/logo.jpg> <./images/Buergerhaushalt.png (PNG copy)>]
 Overfull \hbox (6.21533pt too wide) has occurred while \output is active
  [][][][]  
  []
 
-[17
+[16
 
- <./images/logo.jpg>] <images/Maerker.png, id=587, 1204.5pt x 903.375pt>
+ <./images/logo.jpg>] <images/Maerker.png, id=557, 1204.5pt x 903.375pt>
 File: images/Maerker.png Graphic file (type png)
 
 <use images/Maerker.png>
@@ -999,10 +992,10 @@ Overfull \hbox (6.21533pt too wide) has occurred while \output is active
  [][][][]  
  []
 
-[18
+[17
 
  <./images/logo.jpg> <./images/Maerker.png>]
-<images/ekonsultationen.png, id=619, 866.23625pt x 197.73875pt>
+<images/ekonsultationen.png, id=589, 866.23625pt x 197.73875pt>
 File: images/ekonsultationen.png Graphic file (type png)
 
 <use images/ekonsultationen.png>
@@ -1010,39 +1003,34 @@ Overfull \hbox (6.21533pt too wide) has occurred while \output is active
  [][][][]  
  []
 
-[19
+[18
 
  <./images/logo.jpg> <./images/ekonsultationen.png (PNG copy)>]
-<images/GovCamp.png, id=651, 316.18124pt x 65.24374pt>
+<images/GovCamp.png, id=620, 316.18124pt x 65.24374pt>
 File: images/GovCamp.png Graphic file (type png)
 
 <use images/GovCamp.png>
+<images/urbancamp.png, id=621, 674.52pt x 161.60374pt>
+File: images/urbancamp.png Graphic file (type png)
 
-! LaTeX Error: File `images/Urbancamp' not found.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.314 }}
-        
-? 
-<images/mogdy.png, id=652, 344.28625pt x 156.585pt>
+<use images/urbancamp.png> <images/mogdy.png, id=622, 344.28625pt x 156.585pt>
 File: images/mogdy.png Graphic file (type png)
- <use images/mogdy.png>
+
+<use images/mogdy.png>
 Overfull \hbox (6.21533pt too wide) has occurred while \output is active
  [][][][]  
  []
 
-[20
+[19
 
- <./images/logo.jpg> <./images/GovCamp.png (PNG copy)> <./images/mogdy.png (PNG
- copy)>]
-LaTeX Font Info:    Try loading font information for U+msa on input line 336.
- (/usr/share/texmf-texlive/tex/latex/amsfonts/umsa.fd
+ <./images/logo.jpg> <./images/GovCamp.png (PNG copy)> <./images/urbancamp.png 
+(PNG copy)> <./images/mogdy.png (PNG copy)>]
+LaTeX Font Info:    Try loading font information for U+msa on input line 335.
+
+(/usr/share/texmf-texlive/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2009/06/22 v3.00 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 336.
+LaTeX Font Info:    Try loading font information for U+msb on input line 335.
 
 (/usr/share/texmf-texlive/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2009/06/22 v3.00 AMS symbols B
@@ -1051,7 +1039,7 @@ Overfull \hbox (6.21533pt too wide) has occurred while \output is active
  [][][][]  
  []
 
-[21
+[20
 
  <./images/logo.jpg>])
 \openout2 = `ulrich.aux'.
@@ -1061,9 +1049,16 @@ Overfull \hbox (6.21533pt too wide) has occurred while \output is active
  [][][][]  
  []
 
+[21
+
+
+
+ <./images/logo.jpg>]
+Overfull \hbox (6.21533pt too wide) has occurred while \output is active
+ [][][][]  
+ []
+
 [22
-
-
 
  <./images/logo.jpg>]
 Overfull \hbox (6.21533pt too wide) has occurred while \output is active
@@ -1094,14 +1089,7 @@ Overfull \hbox (6.21533pt too wide) has occurred while \output is active
 [26
 
  <./images/logo.jpg>]
-Overfull \hbox (6.21533pt too wide) has occurred while \output is active
- [][][][]  
- []
-
-[27
-
- <./images/logo.jpg>]
-<./images/Dashboard.png, id=893, 898.35625pt x 573.14125pt>
+<./images/Dashboard.png, id=864, 898.35625pt x 573.14125pt>
 File: ./images/Dashboard.png Graphic file (type png)
 
 <use ./images/Dashboard.png>
@@ -1109,17 +1097,17 @@ Overfull \hbox (6.21533pt too wide) has occurred while \output is active
  [][][][]  
  []
 
-[28
+[27
 
  <./images/logo.jpg> <./images/Dashboard.png (PNG copy)>]
 Overfull \hbox (6.21533pt too wide) has occurred while \output is active
  [][][][]  
  []
 
-[29
+[28
 
  <./images/logo.jpg>]
-<./images/Mashup.png, id=954, 1264.725pt x 789.95125pt>
+<./images/Mashup.png, id=925, 1264.725pt x 789.95125pt>
 File: ./images/Mashup.png Graphic file (type png)
 
 <use ./images/Mashup.png>
@@ -1127,9 +1115,16 @@ Overfull \hbox (6.21533pt too wide) has occurred while \output is active
  [][][][]  
  []
 
-[30
+[29
 
  <./images/logo.jpg> <./images/Mashup.png (PNG copy)>]
+Overfull \hbox (6.21533pt too wide) has occurred while \output is active
+ [][][][]  
+ []
+
+[30
+
+ <./images/logo.jpg>]
 Overfull \hbox (6.21533pt too wide) has occurred while \output is active
  [][][][]  
  []
@@ -1151,14 +1146,7 @@ Overfull \hbox (6.21533pt too wide) has occurred while \output is active
 [33
 
  <./images/logo.jpg>]
-Overfull \hbox (6.21533pt too wide) has occurred while \output is active
- [][][][]  
- []
-
-[34
-
- <./images/logo.jpg>]
-<./images/Screen_offener_Haushalt.png, id=1106, 1109.14375pt x 693.59125pt>
+<./images/Screen_offener_Haushalt.png, id=1077, 1109.14375pt x 693.59125pt>
 File: ./images/Screen_offener_Haushalt.png Graphic file (type png)
 
 <use ./images/Screen_offener_Haushalt.png>
@@ -1166,17 +1154,17 @@ Overfull \hbox (6.21533pt too wide) has occurred while \output is active
  [][][][]  
  []
 
-[35
+[34
 
  <./images/logo.jpg> <./images/Screen_offener_Haushalt.png (PNG copy)>]
 Overfull \hbox (6.21533pt too wide) has occurred while \output is active
  [][][][]  
  []
 
-[36
+[35
 
  <./images/logo.jpg>]
-<./images/parlabla.png, id=1166, 2512.38625pt x 1184.425pt>
+<./images/parlabla.png, id=1137, 2512.38625pt x 1184.425pt>
 File: ./images/parlabla.png Graphic file (type png)
 
 <use ./images/parlabla.png>
@@ -1184,7 +1172,7 @@ Overfull \hbox (6.21533pt too wide) has occurred while \output is active
  [][][][]  
  []
 
-[37
+[36
 
  <./images/logo.jpg> <./images/parlabla.png (PNG copy)>])
 \tf@nav=\write5
@@ -1204,10 +1192,10 @@ LaTeX Font Warning: Size substitutions with differences
 
  ) 
 Here is how much of TeX's memory you used:
- 13335 strings out of 493848
- 235010 string characters out of 1152822
+ 13326 strings out of 493848
+ 235037 string characters out of 1152822
  324369 words of memory out of 3000000
- 16108 multiletter control sequences out of 15000+50000
+ 16110 multiletter control sequences out of 15000+50000
  19280 words of font info for 46 fonts, out of 3000000 for 9000
  714 hyphenation exceptions out of 8191
  45i,16n,59p,335b,760s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1220,9 +1208,9 @@ ublic/cm-super/sfss1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss1
 095.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss1440.pfb></usr/share/
 texmf/fonts/type1/public/cm-super/sfsx0600.pfb></usr/share/texmf/fonts/type1/pu
 blic/cm-super/sfsx0900.pfb>
-Output written on vortrag.pdf (37 pages, 4018332 bytes).
+Output written on vortrag.pdf (36 pages, 4079182 bytes).
 PDF statistics:
- 1251 PDF objects out of 1440 (max. 8388607)
- 78 named destinations out of 1000 (max. 500000)
+ 1219 PDF objects out of 1440 (max. 8388607)
+ 76 named destinations out of 1000 (max. 500000)
  407 words of extra memory for PDF output out of 10000 (max. 10000000)
 
